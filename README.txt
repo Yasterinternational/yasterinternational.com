@@ -1,1 +1,4 @@
-Yaster International Website V3. Replace/upload these files in the root of the GitHub repository. Includes IEC correction, employer/candidate/buyer paths, SEO metadata, Organization structured data, sitemap, robots, favicon, responsive design and WhatsApp enquiry.
+YASTER INTERNATIONAL WEBSITE V3.1
+Header/logo and typography refinement.
+Changes: cropped logo artwork for better visibility, enlarged logo and brand name, improved header spacing, reduced hero headline size for better balance, retained SEO/IEC/enquiry improvements.
+Upload all files to the GitHub repository root and commit changes.
