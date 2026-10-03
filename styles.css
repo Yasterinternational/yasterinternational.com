@@ -21,3 +21,14 @@
     height:60px !important;
   }
 }
+
+/* YASTER BRAND NAME SIZE */
+.brand b{
+  font-size:24px !important;
+  letter-spacing:3px !important;
+}
+
+.brand small{
+  font-size:10px !important;
+  letter-spacing:4px !important;
+}
